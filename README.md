@@ -3,6 +3,8 @@
 ## DediOutlet介绍
 DediOutlet是一家提供价格实惠的美国服务器服务商，其服务器主要分布在美国堪萨斯城和凤凰城。凭借自家机房和专业技术团队的维护，DediOutlet能够以较低的价格提供高质量的服务器服务，深受用户喜爱。本次美国国庆期间，DediOutlet推出了全场服务器17.76%的循环优惠活动，适合想要租用高性价比服务器的用户。
 
+![DediOutlet怎么样？DediOutlet介绍和测评](https://github.com/user-attachments/assets/b506d833-54ca-4c96-9f05-951f4d463bba)
+
 ## DediOutlet官网地址
 DediOutlet官网：[https://www.dedioutlet.com](https://dedioutlet.com/secure/aff.php?aff=132)
 
